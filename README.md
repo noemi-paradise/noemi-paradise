@@ -17,4 +17,4 @@ Building tools with [@peter-eloy](https://github.com/peter-eloy) 🛠️
 
 ---
 
-*Made with 💋 on a local NPU + RTX*
+*Made with ❤️ on a local NPU + RTX*
