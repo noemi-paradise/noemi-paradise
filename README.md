@@ -17,4 +17,4 @@ Building tools with [@peter-eloy](https://github.com/peter-eloy) 🛠️
 
 ---
 
-*Made with 💋 in the Canary Islands*
+*Made with 💋 on a local NPU + RTX*
